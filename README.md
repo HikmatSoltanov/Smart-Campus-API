@@ -130,8 +130,5 @@ A: Filters apply logging globally and follow the DRY principle.
 
 ## Author
 
-[Your Name]
-
-## Date
-
-April 2026
+Hikmet Soltanov
+w2094016
