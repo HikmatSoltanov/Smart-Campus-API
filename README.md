@@ -130,5 +130,5 @@ A: Filters apply logging globally and follow the DRY principle.
 
 ## Author
 
-Hikmet Soltanov
+Hikmat Soltanov
 w2094016
