@@ -1,0 +1,13 @@
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\api\ApplicationConfig.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\exception\ErrorMessage.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\model\Reading.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\model\Room.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\exception\GenericExceptionMapper.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\repository\RoomRepository.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\model\Sensor.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\repository\SensorRepository.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\resource\RoomResource.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\resource\SensorResource.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\resource\DiscoveryResource.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\resource\SensorReadingResource.java
+C:\Users\solta\Documents\NetBeansProjects\SmartCampusAPI\src\main\java\com\smartcampus\filter\LoggingFilter.java

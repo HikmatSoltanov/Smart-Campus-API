@@ -1,0 +1,14 @@
+com\smartcampus\repository\RoomRepository.class
+com\smartcampus\model\Sensor.class
+com\smartcampus\exception\GenericExceptionMapper.class
+com\smartcampus\resource\SensorResource.class
+com\smartcampus\exception\ErrorMessage.class
+com\smartcampus\filter\LoggingFilter.class
+com\smartcampus\model\Reading.class
+com\smartcampus\resource\SensorReadingResource$ReadingRequest.class
+com\smartcampus\repository\SensorRepository.class
+com\smartcampus\model\Room.class
+com\smartcampus\resource\DiscoveryResource.class
+com\smartcampus\api\ApplicationConfig.class
+com\smartcampus\resource\RoomResource.class
+com\smartcampus\resource\SensorReadingResource.class
