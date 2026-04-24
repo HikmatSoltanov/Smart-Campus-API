@@ -59,32 +59,32 @@ This is a RESTful API for the "Smart Campus" initiative. It allows management of
 
 ```bash
 # Get all rooms
-curl -X GET http://localhost:8080/SmartCampusAPI/api/v1/rooms
+curl -X GET http://localhost:8080/SmartCampusAPI-1.0-SNAPSHOT/api/v1/rooms
 
 # Get room by ID
-curl -X GET http://localhost:8080/SmartCampusAPI/api/v1/rooms/1
+curl -X GET http://localhost:8080/SmartCampusAPI-1.0-SNAPSHOT/api/v1/rooms/1
 
 # Create a room
-curl -X POST http://localhost:8080/SmartCampusAPI/api/v1/rooms \
+curl -X POST http://localhost:8080/SmartCampusAPI-1.0-SNAPSHOT/api/v1/rooms \
   -H "Content-Type: application/json" \
   -d '{"name":"Lab 303","building":"Science","floor":2}'
 
 # Get all sensors
-curl -X GET http://localhost:8080/SmartCampusAPI/api/v1/sensors
+curl -X GET http://localhost:8080/SmartCampusAPI-1.0-SNAPSHOT/api/v1/sensors
 
 # Filter sensors by type
-curl -X GET http://localhost:8080/SmartCampusAPI/api/v1/sensors?type=CO2
+curl -X GET http://localhost:8080/SmartCampusAPI-1.0-SNAPSHOT/api/v1/sensors?type=CO2
 
 # Create a sensor
-curl -X POST http://localhost:8080/SmartCampusAPI/api/v1/sensors \
+curl -X POST http://localhost:8080/SmartCampusAPI-1.0-SNAPSHOT/api/v1/sensors \
   -H "Content-Type: application/json" \
   -d '{"type":"TEMP","roomId":1,"currentValue":0,"status":"ACTIVE"}'
 
 # Get sensor readings
-curl -X GET http://localhost:8080/SmartCampusAPI/api/v1/sensors/1/readings
+curl -X GET http://localhost:8080/SmartCampusAPI-1.0-SNAPSHOT/api/v1/sensors/1/readings
 
 # Add a reading
-curl -X POST http://localhost:8080/SmartCampusAPI/api/v1/sensors/1/readings \
+curl -X POST http://localhost:8080/SmartCampusAPI-1.0-SNAPSHOT/api/v1/sensors/1/readings \
   -H "Content-Type: application/json" \
   -d '{"value":23.5}'
 ```
