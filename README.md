@@ -36,7 +36,7 @@ This is a RESTful API for the "Smart Campus" initiative. It allows management of
 4. Start Tomcat
 
 5. API base URL:
-   http://localhost:8080/SmartCampusAPI/api/v1/
+   http://localhost:8080/SmartCampusAPI-1.0-SNAPSHOT/api/v1/
 
 ## API Endpoints
 
